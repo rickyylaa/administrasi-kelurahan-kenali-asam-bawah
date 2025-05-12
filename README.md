@@ -62,7 +62,7 @@ DB_PASSWORD=
 Download file database dengan link berikut (contoh):
 
 ```bash
-drive database/asam-bawah.sql
+database/asam-bawah.sql
 ```
 
 ### 7. Jalankan Server
